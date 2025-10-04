@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+pydantic
+pymongo
+openai>=1.0.0
+python-dotenv
+nltk
